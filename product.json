@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "StruGard Sensor",
+        "price": 20,
+        "image": "img/shop1.webp"
+    },
+    {
+        "id": 2,
+        "name": "Local Smart Hub",
+        "price": 40,
+        "image": "img/shop2.webp"
+    },
+    {
+        "id": 3,
+        "name": "Wide Smart Hub",
+        "price": 60,
+        "image": "img/shop3.webp"
+    }
+]
